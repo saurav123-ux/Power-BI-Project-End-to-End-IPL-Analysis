@@ -5,8 +5,13 @@ This repository contains a thorough analysis of IPL from 2008 to 2022 data with 
 <br>
 <br>
 
- User's Manual
-Files/Folder	Description
-Dataset Folder	This folder provides you two datsets i.e IPL_MATCHES.csv and IPL_BALL.csv
-Python File	This contains the .ipynb file of the analysis which can be downloaded.
+ <p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
+
+##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **Dataset Folder** | This folder provides you two datasets i.e IPL_MATCHES.csv and IPL_BALL.csv  |
+| **Python File** | This contains the .ipynb file of the analysis which can be downloaded.  |
+
 
