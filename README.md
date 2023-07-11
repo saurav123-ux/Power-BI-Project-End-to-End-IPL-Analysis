@@ -10,7 +10,7 @@ This repository contains a thorough analysis of IPL from 2008 to 2022 data with 
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Dataset** | This folder provides you two datasets i.e ipl_ball_by_ball_2008_2022.csv and ipl_matches_2008_2022.csv  |
+| **Dataset** | This folder provides you two datasets i.e ipl_ball_by_ball_2008_2022 csv and ipl_matches_2008_2022 csv  |
 | **IPL Images** | This folder provides all the images used to design the dashboard  |
 | **SQL Queries** | This folder provides all SQL files and Queries |
 | **POWER-BI DASHBOARD** | This contains the Visualisation Dashboard on IPL data which can be downloaded |
