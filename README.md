@@ -39,5 +39,23 @@ This repository contains a thorough analysis of IPL from 2008 to 2022 data with 
   o	Data Visualization 
 
  o Creating a dashboard 
+
+<br>
+
+ ##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> REQUIREMENTS
+
+   **Develop an IPL Dashboard for seasons 2008 to 2022 to have detailed insights on below problem statements**
+
+    1. Find the Title Winer, Orange Cap Winner, Purple Cap Winner, Tournament 6’s and 4’s for the respective seasons on IPL 
     
-   
+    2. Developed IPL Bowling and Batting Stats and added a filter where user can select the bowler and batsman to see these stats.
+    
+    3. Winning percentage based on toss decision 
+    
+    4. Matches win by venue
+    
+    5. Total wins by a team in a season
+    
+    6. Matches won based on a result type
+
+<br>
