@@ -10,7 +10,7 @@ This repository contains a thorough analysis of IPL from 2008 to 2022 data with 
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Dataset** | This folder provides you two datasets i.e ipl_ball_by_ball_2008_2022 csv and ipl_matches_2008_2022 csv  |
+| **Dataset** | This folder provides you two datasets i.e ipl_ball_by_ball_2008_2022.csv and ipl_matches_2008_2022.csv  |
 | **IPL Images** | This folder provides all the images used to design the dashboard  |
 | **SQL Queries** | This folder provides all SQL files and Queries |
 | **POWER-BI DASHBOARD** | This contains the Visualisation Dashboard on IPL data which can be downloaded |
@@ -18,3 +18,26 @@ This repository contains a thorough analysis of IPL from 2008 to 2022 data with 
 <br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/108053296/185795751-b1ee842e-8cdc-4b15-bc78-3a55dc86626b.gif" width="400" ></p>
+
+##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> STEPS IN PROJECT
+   
+    
+  o	Requirement Gathering
+
+  o	Import Data in MS SQL Server 
+
+  o Connecting Power BI to Database 
+
+  o	Data Cleaning
+
+  o	Data Preprocessing
+
+  o Data Modelling
+    
+  o	Time Intelligence Function 
+
+  o	Data Visualization 
+
+ o Creating a dashboard 
+    
+   
