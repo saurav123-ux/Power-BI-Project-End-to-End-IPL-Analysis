@@ -59,3 +59,27 @@ This repository contains a thorough analysis of IPL from 2008 to 2022 data with 
     6. Matches won based on a result type
 
 <br>
+
+ ##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> POWER BI FUNCTIONALITIES USED IN THE PROJEJCT
+
+    o	Connecting Power Bi to MS SQL Server 
+
+    o	Data Modelling with three tables
+
+    o       Data cleaning in Power Query
+
+    o	Time Intelligence Function
+
+    o	Creating KPI's
+
+    o	Dax Queries
+
+    o	Creating and Formatting charts
+
+    o	Different DAX function like Calculate, Sum, Sumx, Filter, Allselected, Values, Selectedvalue, Return, Concatenate, Divide, etc
+
+    o	Creating different shapes and formatting 
+
+    o	Generating Insights from charts
+    
+    
