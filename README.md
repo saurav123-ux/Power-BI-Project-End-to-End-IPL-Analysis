@@ -82,4 +82,10 @@ This repository contains a thorough analysis of IPL from 2008 to 2022 data with 
 
     o	Generating Insights from charts
     
+<br>
+
+## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Dashboard Screenshot
+
+![IPL Dashboard Screenshot](https://github.com/saurav123-ux/Power-BI-Project-End-to-End-IPL-Analysis/assets/72132210/b6dceff6-aa49-473f-b27e-0953cc481d92)
+
     
