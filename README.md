@@ -77,10 +77,7 @@ This repository contains a thorough analysis of IPL from 2008 to 2022 data with 
     o	Creating and Formatting charts
 
     o	Different DAX function like Calculate, Sum, Sumx, Filter, Allselected, Values, Selectedvalue, Return, Concatenate, Divide, etc
-
-IPL Images/Lucknow_Super_Giants_logo.png
     
-
     o	Creating different shapes and formatting 
 
     o	Generating Insights from charts
